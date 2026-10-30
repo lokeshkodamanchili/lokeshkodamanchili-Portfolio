@@ -55,3 +55,9 @@ The visual design and base motion/styling are adapted from [SriSatyaLokesh's por
 - Certification links are the credential URLs supplied in the LinkedIn posts; external services may redirect or require sign-in.
 
 **Contact:** [satyalokesh.ks@gmail.com](mailto:satyalokesh.ks@gmail.com)
+
+## Beyond Code and contact
+
+The Beyond Code section follows Coding and introduces video editing and content creation as free-time interests. Its two cover illustrations were generated with the built-in image tool using matching charcoal/orange editorial 3D prompts: a desktop/mobile editing workspace, and a camera/phone/microphone content setup. They illustrate hobbies, not Lokesh's actual equipment. Assets: `assets/creative/video-editing.webp` and `assets/creative/content-creation.webp`.
+
+Vibe Coding appears under AI-Assisted Development. The contact panel provides Email Me, resume download, and social links. Chatbot answers include these new interests.
